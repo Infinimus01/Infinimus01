@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Infinimus01/Infinimus01/master/Banner.jpg" alt="Banner" width="100%" />
-</p>
+<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg">
+
+
+HELLO, I AM AMLENDU PANDEY
+
+🚀 Full Stack Developer & AI Enthusiast  
+💡 Building real-world AI products with authentication & smart UX  
+📍 India | 🌐 Open to remote opportunities  
+
 
 <h1 align="center">Hi, I'm Amlendu Pandey (Infinimus01)</h1>
 <h3 align="center">Full Stack Developer • AI Engineer • Automation Enthusiast</h3>
