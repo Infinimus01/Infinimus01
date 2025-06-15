@@ -1,9 +1,11 @@
 <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg">
 
-<h1 align="center">Hello, I am Amlendu Pandey (Infinimus01)</h1> <h3 align="center">BACKEND DEVELOPER • FULL STACK DEVELOPER • Microservices & Scalability Enthusiast</h3>
+<h1 align="center">Hello, I am Amlendu Pandey (Infinimus01)</h1> <h3 align="center">Backend-Focused Full Stack Developer • Building Scalable Systems with Microservices</h3>
 
 ⚙️ Passionate about building scalable backend systems & real-world AI products
+
 🧠 Experienced with microservices, authentication, and intelligent UX.
+
 🌍 Based in India | Open to global opportunities.
 
 <p align="center">
