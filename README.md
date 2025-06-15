@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Infinimus01/Infinimus01/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Infinimus01/Infinimus01/main/banner.png" alt="Banner" width="100%" />
 </p>
-
 
 
 <h1 align="center">Hey 👋, I'm Amlendu Pandey</h1>
