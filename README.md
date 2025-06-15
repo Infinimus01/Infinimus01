@@ -1,15 +1,10 @@
 <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg">
 
+<h1 align="center">Hello, I am Amlendu Pandey (Infinimus01)</h1> <h3 align="center">BACKEND DEVELOPER • FULL STACK DEVELOPER • Microservices & Scalability Enthusiast</h3>
 
-HELLO, I AM AMLENDU PANDEY
-
-🚀 Full Stack Developer & AI Enthusiast  
-💡 Building real-world AI products with authentication & smart UX  
-📍 India | 🌐 Open to remote opportunities  
-
-
-<h1 align="center">Hi, I'm Amlendu Pandey (Infinimus01)</h1>
-<h3 align="center">Full Stack Developer • AI Engineer • Automation Enthusiast</h3>
+⚙️ Passionate about building scalable backend systems & real-world AI products
+🧠 Experienced with microservices, authentication, and intelligent UX.
+🌍 Based in India | Open to global opportunities.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=440&lines=MERN+%2B+AI+%3D+Magic;Building+AI+for+real+world;Automating+what+others+still+click" alt="Typing SVG" />
