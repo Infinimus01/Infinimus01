@@ -2,17 +2,24 @@
   <img src="https://raw.githubusercontent.com/Infinimus01/Infinimus01/master/banner.png" alt="Banner" width="100%" />
 </p>
 
-
-<h1 align="center">Hey 👋, I'm Amlendu Pandey</h1>
-<h3 align="center">aka Infinimus01 — Full Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Amlendu Pandey (Infinimus01)</h1>
+<h3 align="center">Full Stack Developer • AI Engineer • Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=I+build+cool+AI+stuff+%F0%9F%A4%96;I+automate+the+web+%F0%9F%9A%80;MERN+%2B+AI+%3D+%F0%9F%94%A5;Let%E2%80%99s+build+the+future+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=440&lines=MERN+%2B+AI+%3D+Magic;Building+AI+for+real+world;Automating+what+others+still+click" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 ABOUT ME
+
+- I craft intelligent systems and developer-first tools.
+- Passionate about solving real-world problems with AI + MERN.
+- Automation, performance, and clean architecture are my core principles.
+
+---
+
+### 🛠 TECH I AM FLUENT IN 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -25,56 +32,47 @@
 
 ---
 
-### 🔭 Projects I'm Working On
+### 🚀 PROJECTS THAT REPRESENTS ME 
 
-- 🤖 Real-world AI Chatbot with Auth & Role Control  
-- 🎯 Seat Booking Automation Bot (MLB, Puppeteer, Playwright)  
-- 🧠 Public Opinion AI — Real-time Twitter scraping & NLP sentiment analysis  
-- 📅 Posto: Minimal AI-powered social media scheduler  
-
----
-
-### 🌱 Currently Learning
-
-- AI Agentic Workflows (LangGraph, OpenAI Assistants)  
-- React Native & Expo  
-- System Design for FAANG-level interviews  
+- 🤖 **AI Chatbot Platform** – Real-world conversational AI with secure auth
+- 🎯 **MLB Ticket Bot** – Playwright + Puppeteer automation with proxy & seat filters
+- 🧠 **Sentiment Engine** – Real-time political sentiment analysis from Twitter feeds
+- 📅 **Posto** – A minimal AI-powered social media post scheduler
 
 ---
 
-### 💬 Ask Me About
+### 🌱 LEARNING WHAT MATTERS
 
-- MERN Stack Projects  
-- Web scraping & automation  
-- AI + Backend Integration  
-- Node.js microservices  
+- Autonomous AI Agents (LangGraph, Assistants API)
+- React Native (Expo) for cross-platform apps
+- System Design Patterns & Scalable Architectures
 
 ---
 
-### 📫 Connect With Me
+### 💬 TOPICS I LOVE DISCUSSING 
+
+- AI x Web Integration (LLMs + Node.js)
+- Web Automation (Playwright, Puppeteer)
+- Clean backend architecture & microservices
+
+---
+
+### 📫 LET'S CONNECT
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link/)
 [![Twitter](https://img.shields.io/badge/-@_infinimus-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_infinimus)
-[![Email](https://img.shields.io/badge/-gaurau1611@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurau1611@gmail.com)
+[![Email](https://img.shields.io/badge/-amlendu2525@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amlendu2525@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infinimus01&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinimus01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Infinimus01&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinimus01&layout=compact&theme=github_dark" height="150" />
 </p>
 
 ---
 
-> ⚡ *Fun Fact:* I debug my life the same way I debug code — one log at a time 😄
-
-
----
-
-### 📊 GitHub Stats
-
-![Infinimus01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinimus01&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinimus01&layout=compact&theme=radical)
+> “I ship fast, refactor later — but always keep it elegant.”  
+> — *Infinimus01*
