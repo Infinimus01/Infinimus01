@@ -1,4 +1,7 @@
-# Infinimus01
+<p align="center">
+  <img src="https://github.com/Infinimus01/Infinimus01/blob/main/banner.png" alt="Banner" />
+</p>
+
 
 <h1 align="center">Hey 👋, I'm Amlendu Pandey</h1>
 <h3 align="center">aka Infinimus01 — Full Stack Developer | AI Enthusiast</h3>
