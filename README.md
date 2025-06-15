@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Infinimus01/Infinimus01/master/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Infinimus01/Infinimus01/master/Banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Amlendu Pandey (Infinimus01)</h1>
