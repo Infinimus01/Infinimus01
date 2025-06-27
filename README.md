@@ -3,7 +3,6 @@
 <h1 align="center">Hello, I am Amlendu Pandey (Infinimus01)</h1> <h3 align="center">Backend-Focused Full Stack Developer • Building Scalable Systems with Microservices</h3>
 
 ⚙️ Passionate about building security-focused scalable backend systems & real-world AI products.
-
 🧠 Experienced with microservices, authentication, and intelligent UX.
 
 🌍 Based in India | Open to global opportunities.
@@ -81,7 +80,7 @@ Created a minimal, AI-powered social media scheduling tool with a focus on produ
 
 ### 📫 LET'S CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/[your-link](https://www.linkedin.com/in/amlendupandey16/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/[https://www.linkedin.com/in/amlendupandey16/])
 [![Twitter](https://img.shields.io/badge/-@_infinimus-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_infinimus)
 [![Email](https://img.shields.io/badge/-amlendu2525@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amlendu2525@gmail.com)
 
