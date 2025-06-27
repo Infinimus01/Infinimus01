@@ -3,6 +3,7 @@
 <h1 align="center">Hello, I am Amlendu Pandey (Infinimus01)</h1> <h3 align="center">Backend-Focused Full Stack Developer • Building Scalable Systems with Microservices</h3>
 
 ⚙️ Passionate about building security-focused scalable backend systems & real-world AI products.
+
 🧠 Experienced with microservices, authentication, and intelligent UX.
 
 🌍 Based in India | Open to global opportunities.
