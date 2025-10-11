@@ -11,14 +11,14 @@ Software Engineer | Turning complexity into clarity <br>
 
 ### 💬 About Me
 - Backend-focused Full Stack Developer • building scalable systems with microservices  
-- Passionate about AI-powered automation and intelligent UX  
+- Proficient in building cloud-native, distributed architectures that are resilient, scalable, and production-grade.
 - Open to collaboration and global opportunities 🌍  
 
 
 
 ---
 
-### 🚀 Open Source Contributions
+### 🔗 Open Source Contributions
 
 Here are some of my notable contributions to open source. Each PR or Issue helped improve real projects and sharpen my skills.  
 
@@ -67,10 +67,10 @@ Here are some of my notable contributions to open source. Each PR or Issue helpe
 
 
 ### 🌱 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amlendupandey16/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Infinimus01)
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_infinimus)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amlendupandey16/) /
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Infinimus01) /
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_infinimus) /
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat-square)](#) /
 
 
 ---
