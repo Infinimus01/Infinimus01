@@ -4,7 +4,7 @@
 
 <p align="center">
 Software Engineer | Turning complexity into clarity <br>
-“In the struggle between logic and chaos, I build bridges in the backend”
+“ I design systems that stay calm when the world scales ”
 </p>
 
 ---
