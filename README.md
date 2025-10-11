@@ -24,6 +24,7 @@ Here are some of my notable contributions to open source. Each PR or Issue helpe
 
 | 🔧 Organization | 📦 Repository | 📝 Contribution | 🔗 Link | Contribution Type |
 |-----------------|--------------|----------------|---------|-----------------|
+| NexusTimer      | Website      | PR (Merged)    | [#475](https://github.com/bryanlundberg/NexusTimer/pull/475) | ![Merged PR](https://img.shields.io/badge/PR-Merged-brightgreen) |
 | NexusTimer      | Website      | PR (Merged)    | [#466](https://github.com/Infinimus01/NexusTimer) | ![Merged PR](https://img.shields.io/badge/PR-Merged-brightgreen) |
 | NexusTimer      | Website      | PR (Merged)    | [#469](https://github.com/Infinimus01/NexusTimer/pull/469) | ![Merged PR](https://img.shields.io/badge/PR-Merged-brightgreen) |
 | AnotherProject  | API          | PR (Merged)    | [#123](https://github.com/username/AnotherProject/pull/123) | ![Merged PR](https://img.shields.io/badge/PR-Merged-brightgreen) |
