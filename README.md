@@ -2,7 +2,6 @@
 
 <p align="center">
 Backend Software Engineer  
-I build systems that stay calm when everything else is scaling wildly.
 </p>
 
 <hr>
@@ -50,6 +49,7 @@ Some recent / notable work:
 - [LinkedIn](https://www.linkedin.com/in/amlendupandey16/)  
 - [GitHub](https://github.com/Infinimus01)  
 - [X / Twitter](https://twitter.com/_infinimus)
+- [Contact me →](mailto:amlendu2525@gmail.com)
 
 ---
 
