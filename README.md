@@ -1,58 +1,72 @@
-<h1 align="center">AMLENDU PANDEY</h1>
-
+<h1 align="center">Amlendu Pandey</h1>
 <p align="center">
-Backend Software Engineer  
+  Backend Engineer — Fintech Infrastructure & Distributed Systems<br>
+  <a href="https://linkedin.com/in/amlendupandey16">LinkedIn</a> •
+  <a href="mailto:amlendu2525@gmail.com">Email</a> •
+  <a href="https://twitter.com/_infinimus">Twitter</a>
 </p>
-
-<hr>
-
-### About
-
-Backend-focused Software Developer building resilient, cloud-native distributed systems and microservices.  
-Open to meaningful collaborations and opportunities worldwide.
-
-### Skills
-
-- **Languages** — TypeScript, JavaScript, Python, C++  
-- **Backend & APIs** — Node.js / Express, FastAPI, REST & GraphQL  
-- **Databases & Stores** — PostgreSQL, MongoDB, Redis, Kafka  
-- **Architecture & Infra** — Microservices, Docker, Kubernetes, AWS, CI/CD, Nginx  
-
-### Open Source
-
-Selected merged contributions:
-
-- [NexusTimer #475](https://github.com/bryanlundberg/NexusTimer/pull/475) — Merged PR  
-- [NexusTimer #469](https://github.com/Infinimus01/NexusTimer/pull/469) — Merged PR  
-- [DebugFest/snake-game #14](https://github.com/debugfest/snake-game/pull/14) — Merged PR  
-
-(Regularly updated)
-
-### Projects
-
-Some recent / notable work:
-
-- **[token-management-api](https://github.com/Infinimus01/token-management-api)**  
-  Distributed token system with Redis + Docker (short-lived secure access control)
-
-- **[distributed-payment-system](https://github.com/Infinimus01/distributed-payment-system-)**  
-  Exploring reliable payment flows at scale
-
-- **[Incident_tracker](https://github.com/Infinimus01/Incident_tracker)**  
-  Incident management prototype
-
-- **[task-manager-api](https://github.com/Infinimus01/task-manager-api)** (private)  
-  Task orchestration API
-
-### Connect
-
-- [LinkedIn](https://www.linkedin.com/in/amlendupandey16/)  
-- [GitHub](https://github.com/Infinimus01)  
-- [X / Twitter](https://twitter.com/_infinimus)
-- [Contact me →](mailto:amlendu2525@gmail.com)
 
 ---
 
+### About
 
-> “I ship fast, refactor later — but always keep it elegant.”  
-> — *Infinimus01*
+Backend engineer specializing in **fintech infrastructure** and **distributed payment systems**.
+
+I build production-grade backend systems focused on reliability, low latency, and financial correctness — idempotency, circuit breakers, reconciliation, and fraud detection. Currently working on high-frequency trading infrastructure and open-source payment tooling.
+
+---
+
+### PayCore — Distributed Payment Infrastructure
+
+[**→ View Project**](https://github.com/Infinimus01/distributed-payment-system-)
+
+A production-grade distributed payment system built to solve real fintech reliability problems:
+
+- **Circuit Breaker** (CLOSED → OPEN → HALF-OPEN) — prevents cascading failures when downstream services degrade. Tested full lifecycle under real service outage.
+- **Smart Retry with Error Classification** — non-retryable errors (insufficient funds, card expired) abort immediately. Retryable errors use exponential backoff with jitter — eliminates thundering herd on recovery.
+- **End-to-End Idempotency** — dual-layer: Redis fast-path + PostgreSQL unique constraints as truth-path fallback. Guarantees exactly-once processing under concurrent duplicate requests.
+- **Reconciliation Engine** — cross-checks payment records against append-only wallet ledger. Detects 4 mismatch types including completed payments with no wallet debit and failed payments with unexpected charges. Processes records in **17ms**.
+- **Redis-backed Anomaly Detection** — 4 real-time fraud rules (velocity, large amount, failed streak, duplicate amount). Non-blocking by design — flags attacks without rejecting legitimate payments.
+- **Load tested with k6** — 50 concurrent users, **51 req/sec**, p50=9ms, p95=32ms.
+
+Stack: `Node.js` `TypeScript` `PostgreSQL` `Redis` `Docker`
+
+---
+
+### Skills
+
+| Area | Technologies |
+|------|-------------|
+| Backend | Node.js, TypeScript, Express, REST APIs |
+| Fintech | Payment Systems, Idempotency, Circuit Breaker, Distributed Locking, ACID Compliance |
+| Databases | PostgreSQL, Redis, MongoDB, MySQL |
+| Infrastructure | Docker, AWS (ECS, ECR, CloudWatch), GCP, CI/CD |
+| Observability | Prometheus, Grafana, Signoz |
+| Languages | TypeScript, JavaScript, Python, C++ |
+
+---
+
+### Other Projects
+
+- **[token-management-api](https://github.com/Infinimus01/token-management-api)** — Distributed token system with Redis + Docker for short-lived secure access control
+- **[Incident_tracker](https://github.com/Infinimus01/Incident_tracker)** — Incident management and tracking prototype
+- **[MCP-Gemini-Tool-Agent](https://github.com/Infinimus01/MCP-Gemini-Tool-Agent)** — AI command agent using Google Gemini and Model Context Protocol for real-world task execution
+
+---
+
+### Open Source
+
+- [NexusTimer #475](https://github.com/bryanlundberg/NexusTimer/pull/475) — Merged PR
+- [NexusTimer #469](https://github.com/Infinimus01/NexusTimer/pull/469) — Merged PR
+- [DebugFest/snake-game #14](https://github.com/debugfest/snake-game/pull/14) — Merged PR
+
+---
+
+### Achievements
+
+- LeetCode **1850+** (Top 5%) — Codeforces **1400+** — GFG Institute Rank **#3**
+- Written technical articles on distributed systems and fintech engineering
+
+---
+
+*Open to backend engineering roles in fintech, infrastructure, and distributed systems.*
