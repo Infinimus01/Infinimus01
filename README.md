@@ -1,6 +1,6 @@
 <h1 align="center">Amlendu Pandey</h1>
 <p align="center">
-  Backend Engineer — Fintech Infrastructure & Distributed Systems<br>
+  Backend Engineer — Backend Infrastructure & Distributed Systems<br>
   <a href="https://linkedin.com/in/amlendupandey16">LinkedIn</a> •
   <a href="mailto:amlendu2525@gmail.com">Email</a> •
   <a href="https://twitter.com/_infinimus">Twitter</a>
