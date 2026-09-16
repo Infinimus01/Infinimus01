@@ -31,13 +31,27 @@ A production-grade distributed payment system built to solve real fintech reliab
 
 Stack: `Node.js` `TypeScript` `PostgreSQL` `Redis` `Docker`
 
+
+### Real-Time Contract Address Monitoring & Alerting
+
+[**→ View Project**](https://github.com/Infinimus01/ca-sentinel.bot)
+
+Built a real-time monitoring system that detects newly published blockchain contract addresses and delivers validated 
+alerts within seconds.
+
+- Built a site-agnostic **real-time monitoring system** that detects newly published EVM and Solana contract addresses from public web pages and delivers validated alerts to Telegram within seconds.
+- Implemented **async HTTP/2 polling** with **ETag/Last-Modified** conditional requests, **SHA-256** change verification, EIP-55/base58 validation, confidence scoring, and intelligent deduplication for reliable detection.
+- Designed a **pluggable parser architecture** with SQLite WAL persistence, transactional outbox-based delivery, retry/backoff handling, automated route discovery, and Docker/systemd deployment, using Python 3.11+, asyncio, httpx, selectolax, SQLite, PyCryptodome, and Telegram Bot API.
+
+Stack: `Python 3.11+` `httpx` `SQLite` ` PyCryptodome` `Telegram Bot API`
+
 ---
 
 ### Skills
 
 | Area | Technologies |
 |------|-------------|
-| Backend | Node.js, TypeScript, Express, REST APIs |
+| Backend | Golang, Node.js, TypeScript, Express, REST APIs |
 | Fintech | Payment Systems, Idempotency, Circuit Breaker, Distributed Locking, ACID Compliance |
 | Databases | PostgreSQL, Redis, MongoDB, MySQL |
 | Infrastructure | Docker, AWS (ECS, ECR, CloudWatch), GCP, CI/CD |
